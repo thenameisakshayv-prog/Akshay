@@ -1,58 +1,52 @@
-<!-- <p align="center">
-   <img alt="is-a.dev Banner" src="https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png">
-</p> -->
+---
+layout: default
+title: My Personal Portfolio
+---
 
-<p align="center">
-   <img height="350" alt="is-a.dev Banner" src="https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png">
-</p>
+# 👋 Hello, I'm [Akshay]
+### [ Student ] based in [H.B.Halli City]
 
-<p align="center">
-   <img alt="Domains" src="https://img.shields.io/github/directory-file-count/is-a-dev/register/domains?color=5c46eb&label=domains&style=for-the-badge">
-   <img alt="Open Pull Requests" src="https://img.shields.io/github/issues-raw/is-a-dev/register?color=5c46eb&label=issues&style=for-the-badge">
-   <img alt="Open Issues" src="https://img.shields.io/github/issues-pr-raw/is-a-dev/register?color=5c46eb&label=pull%20requests&style=for-the-badge">
-   <br>
-</p>
-
-<h1 align="center">is-a.dev</h1>
-
-<p align="center"><strong>is-a.dev</strong> is a service that allows developers to get a sweet-looking <code>.is-a.dev</code> subdomain for their personal websites.</p>
-<p align="center">📕 <a href="https://docs.is-a.dev">Documentation</a> &bull; 📜 <a href="https://is-a.dev/terms">Terms of Service</a> &bull; 💖 <a href="https://donate.is-a.dev">Donate</a></p>
+Welcome to my portfolio! I am passionate about creating digital experiences, solving complex problems, and continuously learning new technologies. 
 
 ---
 
-## 📢 Announcements
-Please join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) for announcements, service updates, and downtime notifications regarding the service.
-
-Only critical announcements are posted on GitHub, everything else is posted on our Discord server.
-
----
-
-> [!NOTE]
-> We've launched another free subdomain service! Claim your `.is-a.bot` subdomain [here](https://github.com/free-domains/is-a.bot).
+## 🛠️ Skills & Technologies
+- **Programming Languages:** HTML, CSS, JavaScript, Python
+- **Tools & Platforms:** GitHub, VS Code, Figma
+- **Core Strengths:** Web Design, Problem Solving, Technical Writing
 
 ---
 
-# ✏️ Register
-> If you want a visual guide, check out [this blog post](https://blog.wharrison.com.au/2024/07/is-a-dev/).
+## 🚀 Projects
+Here are some of the recent projects I have built:
 
-- [Fork](https://github.com/is-a-dev/register/fork) the repository.
-- Follow the instructions on our [documentation](https://docs.is-a.dev).
-  - Do not use AI to generate your request, it **WILL** always get it wrong and will delay you getting a domain.
-- Once you open your pull request (PR), it will be reviewed. *Keep an eye on it in case changes are needed!*
-   - If changes have been requested, please make the specified changes otherwise **you will be rejected**.
-- Once your PR is merged, your DNS records should be published with-in a few minutes.
-- Enjoy your new `.is-a.dev` subdomain! Please consider leaving a star ⭐️ to help support us!
+### 📱 Project Name 1
+*Brief description of what the project does and who it is for.*
+- **Tech Stack:** HTML, CSS
+- [🔗 View Live Demo](https://github.com) | [💻 Source Code](https://github.com)
 
----
-
-## ⛔ Report Abuse
-If you find any subdomains being abused or breaking our [ToS](https://is-a.dev/terms), please report them by [creating an issue](https://github.com/is-a-dev/register/issues/new?assignees=&labels=report-abuse&projects=&template=report-abuse.md&title=Report+abuse) with relevant evidence.
+### 💻 Project Name 2
+*A short, punchy sentence explaining the goal of this application.*
+- **Tech Stack:** JavaScript, API Integration
+- [🔗 View Live Demo](https://github.com) | [💻 Source Code](https://github.com)
 
 ---
 
-## 💖 Supporting Us
-If you would like to help support us, please consider [donating](https://donate.is-a.dev) or [sponsoring](https://donate.is-a.dev/sponsor).
+## 📈 Experience & Education
 
-We are proudly supported by Cloudflare's [Project Alexandria](https://www.cloudflare.com/lp/project-alexandria) program for our DNS management.
+#### 🎓 [Degree / Certificate Name]
+**[A.D.B College ]** | *[Graduation Year]*
+- Relevant coursework or key achievements go here.
 
-We would like to thank all of our current and past [supporters](https://is-a.dev/thanks).
+#### 💼 [Job Title / Internship]
+**[Company or Organization Name]** | *[Start Date] - [End Date]*
+- Briefly highlight a major task or project you completed.
+
+---
+
+## 📬 Let's Connect!
+I am always open to discussing new opportunities, side projects, or just chatting about technology.
+
+- **📧 Email:** [thenameisakshayv@outlook.com]
+- **💼 LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **🐦 Twitter/X:** [@thenameisakshayv](https://x.com)
