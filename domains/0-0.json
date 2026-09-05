@@ -1,11 +1,8 @@
 {
   "owner": {
-    "username": "FWEEaaaa1",
-    "email": "gorgonfweman@outlook.com"
+    "username": "thenameisakshayv-prog"
   },
   "records": {
-    "A": [
-      "216.198.79.1"
-    ]
+    "CNAME": "thenameisakshayv-prog.github.io"
   }
 }
